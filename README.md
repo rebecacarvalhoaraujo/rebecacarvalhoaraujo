@@ -22,7 +22,7 @@
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-Ainda estudando em cursos onlines gratuitos e por conta propria!
+Ainda estudando em cursos online gratuitos e por conta propria!
 
 Cursos do linkedin;
 Programaria;
