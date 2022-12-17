@@ -29,4 +29,4 @@ Programaria;
 Alura;
 Dio.me
 
-## E-mail para contato: rebecaaraujo20@gmail.com
+
