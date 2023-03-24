@@ -27,6 +27,6 @@ Ainda estudando em cursos online gratuitos e por conta propria!
 Cursos do linkedin;
 Programaria;
 Alura;
-Dio.me
+Dio.me;
 SoulCode Academy
 
