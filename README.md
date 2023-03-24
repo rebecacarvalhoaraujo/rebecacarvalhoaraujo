@@ -25,6 +25,7 @@ Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da
 Ainda estudando em cursos online gratuitos e por conta propria!
 
 Cursos do linkedin;
+Minasprograman;
 Programaria;
 Alura;
 Dio.me;
