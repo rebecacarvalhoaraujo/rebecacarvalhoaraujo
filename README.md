@@ -28,5 +28,5 @@ Cursos do linkedin;
 Programaria;
 Alura;
 Dio.me
-
+SoulCode Academy
 
